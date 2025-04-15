@@ -4,3 +4,4 @@ pandas==1.5.3
 transformers==4.28.0
 PyPDF2==2.11.0
 python-docx==0.8.11
+numpy==1.23.5
