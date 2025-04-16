@@ -1,4 +1,4 @@
-streamlit==1.38.0
+streamlit==1.21.0
 torch==2.2.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
 pandas==1.5.3
 transformers==4.28.0
