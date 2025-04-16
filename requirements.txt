@@ -1,8 +1,8 @@
-streamlit==1.21.0
-torch==2.2.0
+streamlit==1.38.0
+torch==2.2.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
 pandas==1.5.3
 transformers==4.28.0
 PyPDF2==2.11.0
 python-docx==0.8.11
 numpy==1.23.5
-matplotlib>=3.10.1
+matplotlib==3.7.1
